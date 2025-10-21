@@ -1,1 +1,2 @@
-Teste de conflito
+Teste de conflito 
+Teste de alteração de commit
